@@ -7,7 +7,7 @@ Titanic Machine Learning Model
                                                             
  CONTENT:
  
-1]PURPOSE 
+    1]PURPOSE 
 
     2]WORKDONE 
 
@@ -19,7 +19,7 @@ Titanic Machine Learning Model
  
  PURPOSE:
  
- A] EDA
+    A] EDA
 
     B] VISUALISATION 
 
