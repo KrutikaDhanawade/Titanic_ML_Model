@@ -7,23 +7,27 @@ Titanic Machine Learning Model
                                                             
  CONTENT:
  
- 1]PURPOSE 
+1]PURPOSE 
 
- 2]WORKDONE 
+    2]WORKDONE 
 
- 3]CONCLUSION 
+    3]CONCLUSION 
 
- 4]RESULT
+    4]RESULT
+    
+    
  
  PURPOSE:
  
  A] EDA
 
- B] VISUALISATION 
+    B] VISUALISATION 
 
- C] BUILDING THE MODEL
+    C] BUILDING THE MODEL
 
- D] HYPER PARAMETER
+    D] HYPER PARAMETER
+ 
+ 
  
  CONCLUSION:
  
